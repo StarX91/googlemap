@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Every dependency you have to install for map
+1.React: Ensure you have React and React DOM installed.- npm install react react-dom
+2.@react-google-maps/api: For Google Maps integration.- npm install @react-google-maps/api
+3.@fortawesome/react-fontawesome: For icons.
+4.@fortawesome/free-solid-svg-icons: For solid icons from FontAwesome.-npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
+
